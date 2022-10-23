@@ -19,3 +19,13 @@ Creamos el readme y seguimos los pasos para subirlo al remoto.
 ![Segunda captura](imagenes/2.png)
 
 ### **5.4**
+
+Despues de realizar los commits, utilizamos el "git log" para verlos reflejados.
+
+![Tercera captura](imagenes/3.png)
+
+### **5.5**
+
+Para subir ramas locales al repositorio remoto utilizamos el comando "git push -u (directorio remoto) (nombre rama)"
+
+![Cuarta captura](imagenes/4.png)
