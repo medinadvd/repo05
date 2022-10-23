@@ -8,4 +8,27 @@
 
 Para el primer apartado hemos creado el directorio en GitHub y lo hemos clonado en local ya que me parecía la manera más optima.
 
+### **5.2**
+
+Creamos el readme y seguimos los pasos para subirlo al remoto.
+
+![Primera captura](imagenes/1.png)
+
 ### **5.3**
+
+![Segunda captura](imagenes/2.png)
+
+### **5.4**
+
+Despues de realizar los commits, utilizamos el "git log" para verlos reflejados.
+
+![Tercera captura](imagenes/3.png)
+
+### **5.5**
+
+Para subir ramas locales al repositorio remoto utilizamos el comando "git push -u (directorio remoto) (nombre rama)"
+
+![Cuarta captura](imagenes/4.png)
+
+### **5.6**
+
