@@ -32,3 +32,20 @@ Para subir ramas locales al repositorio remoto utilizamos el comando "git push -
 
 ### **5.6**
 
+Para fusionar las ramas de manera "no ff", volvemos a la rama "main" y ejecutamos el comando "git merge --no-ff (nombre de la rama).
+
+![Quinta captura](imagenes/5.png)
+
+### **5.7**
+
+Así se ve en el "git log":
+
+![Sexta captura](imagenes/6.png)
+
+Así se ve en el plugin de VSC:
+
+![Séptima captura](imagenes/7.png)
+
+### **5.8**
+
+En esencia ambos metódos de fusión son prácticamente iguales a la hora de implementar cambios de una rama a la otra, la diferencia es que con "no fastforward" podemos ver que rama ha sido la encargada de realizar los commits a la hora de hacer el "git log", lo contrario a la fusión con "fastforward" ya que los commits se unirian en la rama principal.
