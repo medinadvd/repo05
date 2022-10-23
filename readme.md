@@ -29,3 +29,6 @@ Despues de realizar los commits, utilizamos el "git log" para verlos reflejados.
 Para subir ramas locales al repositorio remoto utilizamos el comando "git push -u (directorio remoto) (nombre rama)"
 
 ![Cuarta captura](imagenes/4.png)
+
+### **5.6**
+
